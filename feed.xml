@@ -6,220 +6,95 @@
     <title>Miguel's Morning Bytes</title>
     <link>https://gabrielarosenfeld1-commits.github.io/morning-bytes-feed/feed.xml</link>
     <atom:link href="https://gabrielarosenfeld1-commits.github.io/morning-bytes-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <description>Daily AI/tech briefing for the Salesforce CRO.</description>
+    <description>A daily executive briefing on the news shaping AI, enterprise software, and the future of work. Each morning, Miguel's Morning Bytes walks through the top stories from across the press — frontier model launches, competitor moves, Salesforce and Agentforce headlines, hiring and labor shifts — through the lens of what a Chief Revenue Officer needs to know.</description>
     <language>en-us</language>
     <itunes:author>Miguel's Morning Bytes</itunes:author>
-    <itunes:summary>Daily AI/tech briefing for the Salesforce CRO.</itunes:summary>
+    <itunes:summary>A daily executive briefing on the news shaping AI, enterprise software, and the future of work. Each morning, Miguel's Morning Bytes walks through the top stories from across the press — frontier model launches, competitor moves, Salesforce and Agentforce headlines, hiring and labor shifts — through the lens of what a Chief Revenue Officer needs to know.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Fri, 22 May 2026 19:21:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 19:27:29 +0000</lastBuildDate>
     <item>
-      <title>daily-brief-2026-05-22</title>
-      <description>🔥 SpaceX S-1 Sets Up 'Most Management-Favorable' Governance Ever, Public Funds Charge
-🔥 U.S. to Award Quantum-Computing Firms $2 Billion and Take Equity Stakes
-🔥 DeepSeek Founder Avows AGI Goal Ahead of $10 Billion Funding
-🤖 Trump Abruptly Postpones AI Order After White House Infighting
-🤖 Cursor Hits $3 Billion Annual Sales Rate Ahead of SpaceX Deal
-🏁 Workday Rallies After Results Quiet Fears of AI Disruption
-☁️ Salesforce Touts AI Promise Over Reality in SaaSpocalypse Fight
-💼 Tyler Cowen: AI Won't Bring Mass Unemployment, but It Will Change Most Jobs
-👥 Walmart Shares Sink as Investors Fret About Price-Conscious Shoppers</description>
+      <title>May 22, 2026 — SpaceX S-1 Sets Up 'Most Management-Favorable' Governance Ever, Public Funds Charge</title>
+      <description>Today's brief leads with SpaceX S-1 Sets Up 'Most Management-Favorable' Governance Ever, Public Funds Charge. Also covered: U.S. to Award Quantum-Computing Firms $2 Billion and Take Equity Stakes; DeepSeek Founder Avows AGI Goal Ahead of $10 Billion Funding; Trump Abruptly Postpones AI Order After White House Infighting; Cursor Hits $3 Billion Annual Sales Rate Ahead of SpaceX Deal; Workday Rallies After Results Quiet Fears of AI Disruption.</description>
       <pubDate>Fri, 22 May 2026 10:30:56 +0000</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&id=1DlqgG6qV1ktHCh1jd6x_18ueV3NUxNWx" length="4972086" type="audio/mpeg"/>
       <guid isPermaLink="false">1DlqgG6qV1ktHCh1jd6x_18ueV3NUxNWx</guid>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>daily-brief-2026-05-21</title>
-      <description>🔥 Nvidia's Profit Hits $58.3 Billion as AI Boom Gathers More Steam
-🔥 Elon Musk's SpaceX Sets Out Plans for Biggest IPO in History
-🔥 Trump Plans to Sign Executive Order Granting Oversight of AI Models
-🤖 Anthropic on Track for First Profitable Quarter
-🤖 Anthropic Weighs Using Microsoft AI Chips
-🤖 OpenAI Readies IPO Filing to List as Soon as September
-🏁 Microsoft Lost Its Way in the AI Race. Can Copilot Get It Back on Course?
-🏁 Microsoft and EY to Spend $1 Billion to Help Clients Adopt AI
-💼 Gov. Gavin Newsom to Sign Executive Order Aimed at AI Job Loss
-💼 How I Choose Which Cloudflare Employees to Replace With AI
-👥 Accenture Stock Jumps Over 4% on Q2 Results, Positive Guidance</description>
+      <title>May 21, 2026 — Nvidia's Profit Hits $58.3 Billion as AI Boom Gathers More Steam</title>
+      <description>Today's brief leads with Nvidia's Profit Hits $58.3 Billion as AI Boom Gathers More Steam. Also covered: Elon Musk's SpaceX Sets Out Plans for Biggest IPO in History; Trump Plans to Sign Executive Order Granting Oversight of AI Models; Anthropic on Track for First Profitable Quarter; Anthropic Weighs Using Microsoft AI Chips; OpenAI Readies IPO Filing to List as Soon as September.</description>
       <pubDate>Thu, 21 May 2026 15:22:01 +0000</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&id=1-zL6eypUtH0Bk7xJnMUGIseC1jvvmTuE" length="5080337" type="audio/mpeg"/>
       <guid isPermaLink="false">1-zL6eypUtH0Bk7xJnMUGIseC1jvvmTuE</guid>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>daily-brief-2026-05-20</title>
-      <description>🔥 Meta Begins Laying Off 8,000 Employees as It Transforms Around AI
-🔥 SpaceX Expected to Make IPO Filing Public Today
-🔥 Bristol-Myers Squibb Brings Anthropic's Claude to 30,000 Staff
-🤖 Alibaba Ramps Up AI Push With New Chip, Model Upgrades
-🤖 Major Chatbots Found Unreliable on Elections, News Topics
-🏁 Commerzbank CEO Says AI Will Cut €350 Million in Costs by 2030
-💼 The Growing Anxiety Over AI, Jobs and the Future
-💼 CEO Walks Back Comment About Replacing 'Lower-Value Human Capital' With AI
-👥 Telefónica Q1 2026 Results Miss Forecasts
-👥 PepsiCo Q1 Revenue Climbs 8.5% Beating Expectations</description>
+      <title>May 20, 2026 — Meta Begins Laying Off 8,000 Employees as It Transforms Around AI</title>
+      <description>Today's brief leads with Meta Begins Laying Off 8,000 Employees as It Transforms Around AI. Also covered: SpaceX Expected to Make IPO Filing Public Today; Bristol-Myers Squibb Brings Anthropic's Claude to 30,000 Staff; Alibaba Ramps Up AI Push With New Chip, Model Upgrades; Major Chatbots Found Unreliable on Elections, News Topics; Commerzbank CEO Says AI Will Cut €350 Million in Costs by 2030.</description>
       <pubDate>Wed, 20 May 2026 14:57:08 +0000</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&id=1NIO2DsLprxOyRgcl0fSe46gTjNsUoPCB" length="4712533" type="audio/mpeg"/>
       <guid isPermaLink="false">1NIO2DsLprxOyRgcl0fSe46gTjNsUoPCB</guid>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>daily-brief-2026-05-19</title>
-      <description>🔥 Google Overhauls Search Box, Unveils Gemini Spark Agent and Coding Tools at I/O
-🔥 NextEra Strikes $420B Mega Deal With Dominion to Create US Utility Giant
-🤖 Andrej Karpathy, OpenAI Co-Founder and Tesla Alum, Joins Anthropic
-🤖 Parag Agrawal's Parallel Launches Index to Pay Publishers When AI Agents Use Their Work
-🏁 AI Startup Viktor Raises $75M to Put a Virtual Coworker in Slack and Teams
-🏁 Cisco Shares Slip After CFO Flags AI-Infrastructure Margin Headwind
-💼 StanChart CEO Winters: AI to Replace 'Lower-Value Human Capital'
-💼 Big Four Post More Job Ads for AI Specialists Than Auditors
-👥 Tanuj Kapilashrami Appointed Group Chief Operating Officer at Standard Chartered
-👥 Mistral AI Acquires Austrian Startup Emmi AI</description>
+      <title>May 19, 2026 — Google Overhauls Search Box, Unveils Gemini Spark Agent and Coding Tools at I/O</title>
+      <description>Today's brief leads with Google Overhauls Search Box, Unveils Gemini Spark Agent and Coding Tools at I/O. Also covered: NextEra Strikes $420B Mega Deal With Dominion to Create US Utility Giant; Andrej Karpathy, OpenAI Co-Founder and Tesla Alum, Joins Anthropic; Parag Agrawal's Parallel Launches Index to Pay Publishers When AI Agents Use Their Work; AI Startup Viktor Raises $75M to Put a Virtual Coworker in Slack and Teams; Cisco Shares Slip After CFO Flags AI-Infrastructure Margin Headwind.</description>
       <pubDate>Tue, 19 May 2026 18:05:45 +0000</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&id=1N1LUUkUNAz6QWSaSEfHlB2fYvqoq8Kt9" length="5524210" type="audio/mpeg"/>
       <guid isPermaLink="false">1N1LUUkUNAz6QWSaSEfHlB2fYvqoq8Kt9</guid>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>daily-brief-2026-05-18</title>
-      <description>🔥 title
-🔥 url
-🔥 source
-🔥 lede
-🔥 why_it_matters
-🔥 person
-🤖 Jury Rejects Musk's Claims Against OpenAI
-🤖 Anthropic Lets Mythos Users Share Cyber Threats With Others
-🤖 Meta Reassigns 7,000 Employees to Focus on AI
-🏁 ServiceNow's stock notches best day in a year, flashing a green light for the software sector
-🏁 Standard Chartered to cut 15% of back-office jobs as AI use escalates
-💼 Your Work Team Is Now a 'Pod' and Your Co-Workers Are AI Agents
-💼 Amazon Web Services CEO Pushes Back on AI Job Apocalypse Warnings</description>
+      <title>May 18, 2026 — title</title>
+      <description>Today's brief leads with title. Also covered: url; source; lede; why_it_matters; person.</description>
       <pubDate>Tue, 19 May 2026 02:45:20 +0000</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&id=1gGwVfmv2bEKIySTR5pszCD4OZlX8RW3Q" length="5399240" type="audio/mpeg"/>
       <guid isPermaLink="false">1gGwVfmv2bEKIySTR5pszCD4OZlX8RW3Q</guid>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>daily-brief-2026-05-09</title>
-      <description>🔥 title
-🔥 url
-🔥 source
-🔥 lede
-🔥 why_it_matters
-🔥 person
-🤖 Elon Musk's SpaceX Plans $55 Billion Investment to Make A.I. Chips
-🤖 US Said to Suspect Nvidia Chips Smuggled to Alibaba Via Thailand
-🤖 Chris Hohn's TCI slashes $8bn Microsoft stake on AI disruption warning
-🏁 Meta's Embrace of A.I. Is Making Its Employees Miserable
-💼 Companies are abandoning 'peanut butter' raises as pay-for-performance takes over in the AI era
-💼 Trump Wants to Make H-1B Workers More Expensive for US Employers
-👥 Goldman Sachs' tech boss says tracking individual AI usage isn't useful</description>
+      <title>May 9, 2026 — title</title>
+      <description>Today's brief leads with title. Also covered: url; source; lede; why_it_matters; person.</description>
       <pubDate>Sat, 09 May 2026 10:17:56 +0000</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&id=1GNwatWZ38reppma-y9sG_SzIUwDgGBD2" length="6139864" type="audio/mpeg"/>
       <guid isPermaLink="false">1GNwatWZ38reppma-y9sG_SzIUwDgGBD2</guid>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>daily-brief-2026-05-08</title>
-      <description>🔥 title
-🔥 url
-🔥 source
-🔥 lede
-🔥 why_it_matters
-🔥 person
-🤖 Anthropic Inks $1.8 Billion Computing Deal With Akamai
-🤖 Elon Musk's SpaceX Plans $55 Billion Investment to Make A.I. Chips
-🤖 Big Tech's $725bn AI spending spree sends free cash flow to a decade low
-🏁 Chris Hohn's hedge fund slashes $8bn Microsoft stake in warning over AI disruption
-🏁 Snowflake Stock Jumps. Why Datadog Sparked Rally.
-💼 Meta's Embrace of A.I. Is Making Its Employees Miserable
-💼 Trump Wants to Make H-1B Workers More Expensive for US Employers
-👥 Goldman Sachs' tech boss says tracking individual AI usage isn't useful. He just watches how fast his 12,000 engineers move from idea to production</description>
+      <title>May 8, 2026 — title</title>
+      <description>Today's brief leads with title. Also covered: url; source; lede; why_it_matters; person.</description>
       <pubDate>Sat, 09 May 2026 02:23:30 +0000</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&id=1eD-2k8vw2pnAvFco_Bs6-m7g3QXe8Q-g" length="5715635" type="audio/mpeg"/>
       <guid isPermaLink="false">1eD-2k8vw2pnAvFco_Bs6-m7g3QXe8Q-g</guid>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>daily-brief-2026-05-08</title>
-      <description>🔥 title
-🔥 url
-🔥 source
-🔥 lede
-🔥 why_it_matters
-🔥 person
-🤖 Anthropic Inks $1.8 Billion Computing Deal With Akamai
-🤖 Elon Musk's SpaceX Plans $55 Billion Investment to Make A.I. Chips
-🤖 Big Tech's $725bn AI spending spree sends free cash flow to a decade low
-🏁 Chris Hohn's hedge fund slashes $8bn Microsoft stake in warning over AI disruption
-🏁 Snowflake Stock Jumps. Why Datadog Sparked Rally.
-💼 Meta's Embrace of A.I. Is Making Its Employees Miserable
-💼 Trump Wants to Make H-1B Workers More Expensive for US Employers
-👥 Goldman Sachs' tech boss says tracking individual AI usage isn't useful. He just watches how fast his 12,000 engineers move from idea to production</description>
+      <title>May 8, 2026 — title</title>
+      <description>Today's brief leads with title. Also covered: url; source; lede; why_it_matters; person.</description>
       <pubDate>Sat, 09 May 2026 01:46:17 +0000</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&id=1BqOi8YJkqbMfPDX0xc0sOkIYsx6t1-SQ" length="6667746" type="audio/mpeg"/>
       <guid isPermaLink="false">1BqOi8YJkqbMfPDX0xc0sOkIYsx6t1-SQ</guid>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>daily-brief-2026-05-08</title>
-      <description>🔥 title
-🔥 url
-🔥 source
-🔥 lede
-🔥 why_it_matters
-🔥 person
-🤖 Anthropic Inks $1.8 Billion Computing Deal With Akamai
-🤖 Elon Musk's SpaceX Plans $55 Billion Investment to Make A.I. Chips
-🤖 Big Tech's $725bn AI spending spree sends free cash flow to a decade low
-🏁 Chris Hohn's hedge fund slashes $8bn Microsoft stake in warning over AI disruption
-🏁 Snowflake Stock Jumps. Why Datadog Sparked Rally.
-💼 Meta's Embrace of A.I. Is Making Its Employees Miserable
-💼 Trump Wants to Make H-1B Workers More Expensive for US Employers
-👥 Goldman Sachs' tech boss says tracking individual AI usage isn't useful. He just watches how fast his 12,000 engineers move from idea to production</description>
+      <title>May 8, 2026 — title</title>
+      <description>Today's brief leads with title. Also covered: url; source; lede; why_it_matters; person.</description>
       <pubDate>Sat, 09 May 2026 01:40:30 +0000</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&id=1QX-2FDscVjEcsUFhMrLLzAZpRhhYd4E3" length="5651270" type="audio/mpeg"/>
       <guid isPermaLink="false">1QX-2FDscVjEcsUFhMrLLzAZpRhhYd4E3</guid>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>daily-brief-2026-05-08</title>
-      <description>🔥 title
-🔥 url
-🔥 source
-🔥 lede
-🔥 why_it_matters
-🔥 person
-🤖 Anthropic Inks $1.8 Billion Computing Deal With Akamai
-🤖 Elon Musk's SpaceX Plans $55 Billion Investment to Make A.I. Chips
-🤖 Big Tech's $725bn AI spending spree sends free cash flow to a decade low
-🏁 Chris Hohn's hedge fund slashes $8bn Microsoft stake in warning over AI disruption
-🏁 Snowflake Stock Jumps. Why Datadog Sparked Rally.
-💼 Meta's Embrace of A.I. Is Making Its Employees Miserable
-💼 Trump Wants to Make H-1B Workers More Expensive for US Employers
-👥 Goldman Sachs' tech boss says tracking individual AI usage isn't useful. He just watches how fast his 12,000 engineers move from idea to production</description>
+      <title>May 8, 2026 — title</title>
+      <description>Today's brief leads with title. Also covered: url; source; lede; why_it_matters; person.</description>
       <pubDate>Sat, 09 May 2026 00:12:48 +0000</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&id=1F1in64iGLNwpcywhLHjZd5XTkDeQ7eEx" length="7248710" type="audio/mpeg"/>
       <guid isPermaLink="false">1F1in64iGLNwpcywhLHjZd5XTkDeQ7eEx</guid>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>daily-brief-2026-05-08</title>
-      <description>🔥 title
-🔥 url
-🔥 source
-🔥 lede
-🔥 why_it_matters
-🔥 person
-🤖 Anthropic Inks $1.8 Billion Computing Deal With Akamai
-🤖 Elon Musk's SpaceX Plans $55 Billion Investment to Make A.I. Chips
-🤖 Big Tech's $725bn AI spending spree sends free cash flow to a decade low
-🏁 Chris Hohn's hedge fund slashes $8bn Microsoft stake in warning over AI disruption
-🏁 Snowflake Stock Jumps. Why Datadog Sparked Rally.
-💼 Meta's Embrace of A.I. Is Making Its Employees Miserable
-💼 Trump Wants to Make H-1B Workers More Expensive for US Employers
-👥 Goldman Sachs' tech boss says tracking individual AI usage isn't useful. He just watches how fast his 12,000 engineers move from idea to production</description>
+      <title>May 8, 2026 — title</title>
+      <description>Today's brief leads with title. Also covered: url; source; lede; why_it_matters; person.</description>
       <pubDate>Sat, 09 May 2026 00:02:20 +0000</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&id=1MbyFvygkkb5CDq1PDEhvel3AwN1o7rCE" length="6663149" type="audio/mpeg"/>
       <guid isPermaLink="false">1MbyFvygkkb5CDq1PDEhvel3AwN1o7rCE</guid>

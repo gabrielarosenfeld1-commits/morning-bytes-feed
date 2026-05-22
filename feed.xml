@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Miguel's Morning Bytes</title>
+    <link>https://gabrielarosenfeld1-commits.github.io/morning-bytes-feed/feed.xml</link>
+    <atom:link href="https://gabrielarosenfeld1-commits.github.io/morning-bytes-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Daily AI/tech briefing for the Salesforce CRO.</description>
+    <language>en-us</language>
+    <itunes:author>Miguel's Morning Bytes</itunes:author>
+    <itunes:summary>Daily AI/tech briefing for the Salesforce CRO.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <lastBuildDate>Fri, 22 May 2026 18:30:02 +0000</lastBuildDate>
+    <item>
+      <title>daily-brief-2026-05-22</title>
+      <description>daily-brief-2026-05-22</description>
+      <pubDate>Fri, 22 May 2026 10:30:56 +0000</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1DlqgG6qV1ktHCh1jd6x_18ueV3NUxNWx" length="4972086" type="audio/mpeg"/>
+      <guid isPermaLink="false">1DlqgG6qV1ktHCh1jd6x_18ueV3NUxNWx</guid>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>daily-brief-2026-05-21</title>
+      <description>daily-brief-2026-05-21</description>
+      <pubDate>Thu, 21 May 2026 15:22:01 +0000</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1-zL6eypUtH0Bk7xJnMUGIseC1jvvmTuE" length="5080337" type="audio/mpeg"/>
+      <guid isPermaLink="false">1-zL6eypUtH0Bk7xJnMUGIseC1jvvmTuE</guid>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>daily-brief-2026-05-20</title>
+      <description>daily-brief-2026-05-20</description>
+      <pubDate>Wed, 20 May 2026 14:57:08 +0000</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1NIO2DsLprxOyRgcl0fSe46gTjNsUoPCB" length="4712533" type="audio/mpeg"/>
+      <guid isPermaLink="false">1NIO2DsLprxOyRgcl0fSe46gTjNsUoPCB</guid>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>daily-brief-2026-05-19</title>
+      <description>daily-brief-2026-05-19</description>
+      <pubDate>Tue, 19 May 2026 18:05:45 +0000</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1N1LUUkUNAz6QWSaSEfHlB2fYvqoq8Kt9" length="5524210" type="audio/mpeg"/>
+      <guid isPermaLink="false">1N1LUUkUNAz6QWSaSEfHlB2fYvqoq8Kt9</guid>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>daily-brief-2026-05-18</title>
+      <description>daily-brief-2026-05-18</description>
+      <pubDate>Tue, 19 May 2026 02:45:20 +0000</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1gGwVfmv2bEKIySTR5pszCD4OZlX8RW3Q" length="5399240" type="audio/mpeg"/>
+      <guid isPermaLink="false">1gGwVfmv2bEKIySTR5pszCD4OZlX8RW3Q</guid>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>daily-brief-2026-05-09</title>
+      <description>daily-brief-2026-05-09</description>
+      <pubDate>Sat, 09 May 2026 10:17:56 +0000</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1GNwatWZ38reppma-y9sG_SzIUwDgGBD2" length="6139864" type="audio/mpeg"/>
+      <guid isPermaLink="false">1GNwatWZ38reppma-y9sG_SzIUwDgGBD2</guid>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>daily-brief-2026-05-08</title>
+      <description>daily-brief-2026-05-08</description>
+      <pubDate>Sat, 09 May 2026 02:23:30 +0000</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1eD-2k8vw2pnAvFco_Bs6-m7g3QXe8Q-g" length="5715635" type="audio/mpeg"/>
+      <guid isPermaLink="false">1eD-2k8vw2pnAvFco_Bs6-m7g3QXe8Q-g</guid>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>daily-brief-2026-05-08</title>
+      <description>daily-brief-2026-05-08</description>
+      <pubDate>Sat, 09 May 2026 01:46:17 +0000</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1BqOi8YJkqbMfPDX0xc0sOkIYsx6t1-SQ" length="6667746" type="audio/mpeg"/>
+      <guid isPermaLink="false">1BqOi8YJkqbMfPDX0xc0sOkIYsx6t1-SQ</guid>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>daily-brief-2026-05-08</title>
+      <description>daily-brief-2026-05-08</description>
+      <pubDate>Sat, 09 May 2026 01:40:30 +0000</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1QX-2FDscVjEcsUFhMrLLzAZpRhhYd4E3" length="5651270" type="audio/mpeg"/>
+      <guid isPermaLink="false">1QX-2FDscVjEcsUFhMrLLzAZpRhhYd4E3</guid>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>daily-brief-2026-05-08</title>
+      <description>daily-brief-2026-05-08</description>
+      <pubDate>Sat, 09 May 2026 00:12:48 +0000</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1F1in64iGLNwpcywhLHjZd5XTkDeQ7eEx" length="7248710" type="audio/mpeg"/>
+      <guid isPermaLink="false">1F1in64iGLNwpcywhLHjZd5XTkDeQ7eEx</guid>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>daily-brief-2026-05-08</title>
+      <description>daily-brief-2026-05-08</description>
+      <pubDate>Sat, 09 May 2026 00:02:20 +0000</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1MbyFvygkkb5CDq1PDEhvel3AwN1o7rCE" length="6663149" type="audio/mpeg"/>
+      <guid isPermaLink="false">1MbyFvygkkb5CDq1PDEhvel3AwN1o7rCE</guid>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

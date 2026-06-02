@@ -11,7 +11,15 @@
     <itunes:author>Miguel's Morning Bytes</itunes:author>
     <itunes:summary>A daily executive briefing on the news shaping AI, enterprise software, and the future of work. Each morning, Miguel's Morning Bytes walks through the top stories from across the press — frontier model launches, competitor moves, Salesforce and Agentforce headlines, hiring and labor shifts — through the lens of what a Chief Revenue Officer needs to know.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Mon, 01 Jun 2026 13:06:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 13:06:45 +0000</lastBuildDate>
+    <item>
+      <title>June 2, 2026 — Anthropic Files Confidentially for IPO</title>
+      <description>Today's brief leads with Anthropic Files Confidentially for IPO. Also covered: Alphabet to Raise $80 Billion for AI Buildout; Berkshire Takes $10 Billion Stake; Florida Sues OpenAI Over Chatbot Safety Concerns; Tencent Moves Closer to Launching AI Agent for WeChat; How Box Created 13 New Types of Jobs Because of AI; Is AI Replacing Tech Workers or Providing an Excuse for Job Cuts?.</description>
+      <pubDate>Tue, 02 Jun 2026 13:06:23 +0000</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1gL121BTObgl2RAwmJr8gk7PxPvFMWzLU" length="5207397" type="audio/mpeg"/>
+      <guid isPermaLink="false">1gL121BTObgl2RAwmJr8gk7PxPvFMWzLU</guid>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>June 1, 2026 — Nvidia Unveils RTX Spark Superchip for PCs, Taking On Intel, AMD and Apple</title>
       <description>Today's brief leads with Nvidia Unveils RTX Spark Superchip for PCs, Taking On Intel, AMD and Apple. Also covered: AI Investments Are a 'Circular Bet' as ROI Disappoints, Bain Survey Shows; SoftBank Overtakes Toyota as Japan's Most Valuable Company; Anthropic to Give Mythos Access to EU Cybersecurity Agency Ahead of Wider Release; Nvidia Says Anthropic, OpenAI Among First Big Users of New Vera Chip; SAP and Cyberwave Deploy Autonomous AI Robots in Logistics Warehouse.</description>

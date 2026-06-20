@@ -11,7 +11,15 @@
     <itunes:author>Miguel's Morning Bytes</itunes:author>
     <itunes:summary>A daily executive briefing on the news shaping AI, enterprise software, and the future of work. Each morning, Miguel's Morning Bytes walks through the top stories from across the press — frontier model launches, competitor moves, Salesforce and Agentforce headlines, hiring and labor shifts — through the lens of what a Chief Revenue Officer needs to know.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Thu, 18 Jun 2026 16:02:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 17:02:29 +0000</lastBuildDate>
+    <item>
+      <title>June 20, 2026 — Nobel Winner John Jumper to Leave Google DeepMind for Anthropic</title>
+      <description>Today's brief leads with Nobel Winner John Jumper to Leave Google DeepMind for Anthropic. Also covered: Trump Tells Axios He Doesn't See Anthropic as US Security Threat; UnitedHealth's $3 Billion AI Push Has Bots Calling Doctors; Lutnick's Anthropic Crackdown Claims New Power Over AI Models; Did Anthropic Talk Its Way Into an AI Export Ban?; EY: We Found Your Biggest AI Blind Spot. It's Called the 'Tempo Gap'.</description>
+      <pubDate>Sat, 20 Jun 2026 17:02:22 +0000</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1bkvLpuLwdebRTftnUT6jWUQgOoiKuiWh" length="5006359" type="audio/mpeg"/>
+      <guid isPermaLink="false">1bkvLpuLwdebRTftnUT6jWUQgOoiKuiWh</guid>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>June 18, 2026 — Amazon in Talks to Sell Custom AI Chips in Bid to Cut Nvidia's Dominance</title>
       <description>Today's brief leads with Amazon in Talks to Sell Custom AI Chips in Bid to Cut Nvidia's Dominance. Also covered: Google DeepMind unveils plan to protect itself from its own rogue AI agents; Meta's AI gamble: Dina Powell McCormick opens door to Wall Street; Anthropic Lays Out Vision for How to Bolster AI Models' Safety; JPMorgan Chase cuts off Anthropic access for its Hong Kong staff; Microsoft, Amazon Cloud Services Face Tough EU Antitrust Law.</description>

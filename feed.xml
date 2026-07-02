@@ -11,7 +11,15 @@
     <itunes:author>Miguel's Morning Bytes</itunes:author>
     <itunes:summary>A daily executive briefing on the news shaping AI, enterprise software, and the future of work. Each morning, Miguel's Morning Bytes walks through the top stories from across the press — frontier model launches, competitor moves, Salesforce and Agentforce headlines, hiring and labor shifts — through the lens of what a Chief Revenue Officer needs to know.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Wed, 01 Jul 2026 13:59:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 13:53:33 +0000</lastBuildDate>
+    <item>
+      <title>July 2, 2026 — OpenAI Proposes Giving the US Government a 5% Stake</title>
+      <description>Today's brief leads with OpenAI Proposes Giving the US Government a 5% Stake. Also covered: Google Loses EU Top Court Fight Over €4.1 Billion Android Fine; CoreWeave, Nebius Tumble as Meta Stands to Become Fresh Cloud Threat; SoftBank Plans to Rent AI Compute in US at 10-Gigawatt Scale; Nvidia Offers Revenue Sharing Model for Aspiring AI Startups; Apple Lobbies US to Buy Chinese-Made Memory Chips.</description>
+      <pubDate>Thu, 02 Jul 2026 13:53:27 +0000</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1-qVNa0g4w3Z_lgUY6KGehm4DKtD15cji" length="5815528" type="audio/mpeg"/>
+      <guid isPermaLink="false">1-qVNa0g4w3Z_lgUY6KGehm4DKtD15cji</guid>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>July 1, 2026 — US Lifts Export Restrictions on Anthropic's Fable 5 AI Model</title>
       <description>Today's brief leads with US Lifts Export Restrictions on Anthropic's Fable 5 AI Model. Also covered: Abu Dhabi's MGX Raises $49 Billion for One of the Biggest Ever AI Funds; Anthropic launches Claude Science in push for pharma revenue; 'Kill switches' could be needed for AI-powered trading, BoE official says; Microsoft is reportedly planning thousands of layoffs as it spends on AI; Tech and Finance Sectors Losing 28,000 Jobs Monthly Show AI Impact on Labor.</description>
